@@ -1,2 +1,2 @@
 # TestRepoWpi
-Test of git for WPI students
+Test of git for WPI students - updated
